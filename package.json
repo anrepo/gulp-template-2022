@@ -1,0 +1,41 @@
+{
+  "name": "gulp-settings-v4",
+  "version": "2.0.0",
+  "description": "For development web-page markup",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^4.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "node-sass": "^7.0.1",
+    "sass": "^1.51.0",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrepo/gulp-template-2022.git"
+  },
+  "keywords": [
+    "gulp",
+    "html",
+    "css",
+    "javascript",
+    "scss",
+    "typescript"
+  ],
+  "author": "Polenok Andrey Anatolievich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrepo/gulp-template-2022/issues"
+  },
+  "homepage": "https://github.com/anrepo/gulp-template-2022#readme"
+}
